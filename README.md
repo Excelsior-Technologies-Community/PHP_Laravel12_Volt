@@ -492,5 +492,8 @@ PHP_Laravel12_Volt
 
 Your PHP_Laravel12_Volt Project is now ready!
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> development
