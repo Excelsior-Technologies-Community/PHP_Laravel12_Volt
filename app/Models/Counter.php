@@ -6,5 +6,5 @@ use Illuminate\Database\Eloquent\Model;
 
 class Counter extends Model
 {
-    protected $fillable = ['count'];
+    protected $fillable = ['name', 'count', 'target'];
 }
